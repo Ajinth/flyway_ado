@@ -1,1 +1,2 @@
-select dual;
+SELECT 1 FROM DUAL
+;
